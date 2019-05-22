@@ -1,0 +1,2 @@
+# CrawlSpider_-
+通过使用CrawlSpider进行深度爬取，涉及到①正则表达式解决页面结构不统一的问题；②通过LinkExtractor中的restrict_xpaths限制爬取链接的条件；③通过selenium无界面浏览器解决文本（下载链接）js加密问题
